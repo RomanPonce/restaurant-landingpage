@@ -1,5 +1,5 @@
 import { content } from "./dom.js";
-import AboutImg from "./restaurant.jpg";
+import AboutImg from "../assets/img/restaurant.jpg";
 
 export function renderAbout() {
   const hola = `La historia de los restaurantes se remonta a 1765, cuando el mesonero Boulanger abrió un establecimiento en París, Francia, que se considera el primer restaurante del mundo. Boulanger servía varios platillos acompañados de vino en un local llamado Champs d'Oiseau.`;
